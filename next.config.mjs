@@ -30,8 +30,8 @@ const nextConfig = {
     return config;
     
   },
-  basePath: isProd ? '/Uspacy' : '', 
-  assetPrefix: isProd ? '/Uspacy/' : '',
+  basePath: isProd ? '/LandingPage/' : '', 
+  assetPrefix: isProd ? '/LandingPage/' : '',
   output: 'export',
   distDir: 'dist',
   images: {
